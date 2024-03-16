@@ -1,0 +1,12 @@
+¿Por qué no utilizamos Microsoft Word para escribir el código de una página web?
+
+Microsoft Word es una herramienta popular para crear documentos de texto, pero no es adecuada para escribir código de páginas web.
+Generación de Código Basura:
+Cuando utilizas Word para crear contenido HTML, el editor de texto genera código adicional (código basura) que no es necesario y que no beneficia a tus envíos.
+Este código extra podría romper el diseño de la página web o incluso hacer que algunos proveedores de servicios de Internet (ISP) bloqueen tu empresa debido a considerarlo SPAM
+
+¿Cuál es la diferencia entre Front-End, Back-End y FullStack?
+
+Los desarrolladores frontend se centran en la experiencia del usuario, los backend en la funcionalidad y la seguridad, y los Full Stack en la versatilidad y la capacidad de 
+llevar proyectos de principio a fin.
+
